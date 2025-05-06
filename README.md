@@ -1,6 +1,6 @@
 # to_do_app
 
-A new Flutter project.
+A new Flutter project use local database Hive.
 
 ## Getting Started
 
